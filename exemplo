@@ -1,0 +1,33 @@
+heap first
+new c 3
+exibe
+new b 2
+exibe
+b = c
+exibe
+del c
+exibe
+new num1 2
+exibe
+new num2 5
+exibe
+heap best
+exibe
+new var 30
+exibe
+new pi 2
+exibe
+heap worst
+del var1
+del pi
+exibe
+new v 5
+exibe
+b = v
+exibe
+new a 1
+exibe
+del num1
+exibe
+new pi 1
+exibe
