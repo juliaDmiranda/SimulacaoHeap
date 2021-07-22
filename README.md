@@ -4,4 +4,4 @@ Esse trabalho corresponde ao Exercício 2 [deste arquivo](http://www2.ic.uff.br/
 
 A apresentação das funções do programa consta no arquivo SimulacaoHeap.pptx.
 
-[Aqui](exemplo) um exemplo do uso da linguagem sugerida para esse exercício.
+[Aqui](exemplo) um programa escrito na linguagem sugerida para esse exercício.
