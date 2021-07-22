@@ -3,3 +3,5 @@ Trabalho de simulação de manipulação de memória num heap para a disciplina 
 Esse trabalho corresponde ao Exercício 2 [deste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/Trabalhos.pdf) . 
 
 A apresentação das funções do programa consta no arquivo SimulacaoHeap.pptx.
+
+[Aqui](exemplo) um exemplo do uso da linguagem sugerida para esse exercício.
